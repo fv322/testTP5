@@ -1,0 +1,17 @@
+
+p{
+	color: blue;
+	font-size: 20px;
+	text-align: center;
+}
+
+h1, h4{
+	color: red;
+	text-align: center;
+	font-family: cursive;
+}
+
+.Alinear_Flex{
+	display: flex;
+	justify-content: center;
+}
